@@ -1,5 +1,4 @@
 # Biometrics: The Use of Facial Authentication for Deepfake Detection
-# Biometrics and Deepfake Detection
 
 This project explores the use of facial recognition to detect AI-generated deepfake images. Using Convolutional Neural Networks (CNNs) for feature extraction and Support Vector Machines (SVMs) for classification, the model was trained on a reduced version of the OpenForensics dataset.
 
